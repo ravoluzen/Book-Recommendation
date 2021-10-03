@@ -67,7 +67,7 @@ export default function App() {
                 listStyle: "none",
                 padding: "1rem",
                 border: "none",
-                width: "70%",
+                width: "25em",
                 margin: "1rem 0rem"
               }}
             >
